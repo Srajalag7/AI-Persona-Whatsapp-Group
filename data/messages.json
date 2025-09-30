@@ -1,0 +1,922 @@
+{
+  "27bf5a57": [
+    {
+      "id": "94477780",
+      "group_id": "27bf5a57",
+      "character_id": "27e68d27",
+      "character_name": "Amit Ji",
+      "content": "Arre guys, Yaar kuch interesting batao! Kya scene hai?",
+      "message_type": "normal",
+      "timestamp": "2025-09-29T19:47:42.956054",
+      "reactions": []
+    },
+    {
+      "id": "bc42712d",
+      "group_id": "27bf5a57",
+      "character_id": "a662a039",
+      "character_name": "Tanmay Bhau",
+      "content": "Bhauuu, interesting scene toh yahi hai ki apna Salman bhai shaadi kar lega... jab RCB IPL jeetegi. Same timeline, bro. 😂",
+      "message_type": "normal",
+      "timestamp": "2025-09-29T19:47:53.940811",
+      "reactions": []
+    },
+    {
+      "id": "17e910a7",
+      "group_id": "27bf5a57",
+      "character_id": "a5037d4d",
+      "character_name": "Virat Bhai",
+      "content": "Abey Amit, asli interesting toh Salman Bhai ki shaadi hai! Wahi toh discussion chal raha hai, ya tumlog bas finger food pe concentrate kar rahe ho?! 🤣 Ben Stokes! Ben Stokes!",
+      "message_type": "normal",
+      "timestamp": "2025-09-29T19:48:00.392158",
+      "reactions": []
+    },
+    {
+      "id": "874fa0ce",
+      "group_id": "27bf5a57",
+      "character_id": "27e68d27",
+      "character_name": "Amit Ji",
+      "content": "Mitron, Tanmay ne jo RCB wali 'chronology' batai hai na, usse toh lagta hai Salman bhai ki shaadi bhi 'master stroke' ki tarah hai..",
+      "message_type": "normal",
+      "timestamp": "2025-09-29T19:48:12.712261",
+      "reactions": []
+    },
+    {
+      "id": "2a1c568b",
+      "group_id": "27bf5a57",
+      "character_id": "c650a120",
+      "character_name": "Elon Bhaiya",
+      "content": "Master stroke? 😂 Ye Salman ki shaadi toh ek 'blockchain transaction' hai, kabhi confirm hi nahi ho rahi. RCB ki jeet se pehle toh main apne Tesla mein Mars jaake wapas aa jaunga, beta! Simulation glitch hai ye, ya time loop! 🚀.",
+      "message_type": "normal",
+      "timestamp": "2025-09-29T19:48:23.958648",
+      "reactions": []
+    },
+    {
+      "id": "0fdf86c6",
+      "group_id": "27bf5a57",
+      "character_id": "a4d6e7fd",
+      "character_name": "Deepika Didi",
+      "content": "Ohooo, matlab Salman Bhai ki shaadi ab 'mission impossible' ban gayi RCB ke chakkar mein? 🙄 Tumlog toh uske 'single status' ka Bigg Boss season bana doge. Enough drama, yaar! 💅",
+      "message_type": "normal",
+      "timestamp": "2025-09-29T19:48:34.067475",
+      "reactions": []
+    },
+    {
+      "id": "5145dd52",
+      "group_id": "27bf5a57",
+      "character_id": "a662a039",
+      "character_name": "Tanmay Bhau",
+      "content": "Arre Deepika didi, 'mission impossible' toh meri diet hai yaar. Salman bhai ki shaadi toh 'season finale' ki tarah hai, bas date nahi bata rahe.",
+      "message_type": "normal",
+      "timestamp": "2025-09-29T19:48:47.356327",
+      "reactions": [
+        "😅"
+      ]
+    },
+    {
+      "id": "b2221087",
+      "group_id": "27bf5a57",
+      "character_id": "84244211",
+      "character_name": "Rohit Bhai",
+      "content": "Arre Tanmay, yaar, tu aur tere RCB ke chakkar mein Salman bhai ki shaadi ko bhi 'myth' bana diya. Woh toh 'test match' hai, bro, kab declare hoga koi nahi jaanta! 😂 Chill karo, sab.",
+      "message_type": "normal",
+      "timestamp": "2025-09-29T19:49:03.594195",
+      "reactions": []
+    },
+    {
+      "id": "2def2d0d",
+      "group_id": "27bf5a57",
+      "character_id": "c650a120",
+      "character_name": "Elon Bhaiya",
+      "content": "Test match? Rohit, beta, ye 'test' nahi, 'quantum paradox' hai! 😂 Salman bhai ki shaadi ka algorithm solve karne ke liye SpaceX se ek dedicated 'Shaadi-Sat' launch karna padega. Wahi data collect karega.",
+      "message_type": "normal",
+      "timestamp": "2025-09-29T19:49:13.800485",
+      "reactions": []
+    },
+    {
+      "id": "4dd3616b",
+      "group_id": "27bf5a57",
+      "character_id": "27e68d27",
+      "character_name": "Amit Ji",
+      "content": "Mitron, yeh Salman bhai ki shaadi ab toh sarkaar ke agle Budget jaisi ho gayi hai..",
+      "message_type": "normal",
+      "timestamp": "2025-09-29T19:49:22.187240",
+      "reactions": []
+    },
+    {
+      "id": "2f387197",
+      "group_id": "27bf5a57",
+      "character_id": "a662a039",
+      "character_name": "Tanmay Bhau",
+      "content": "Amit Ji, 'sarkaar ka budget'? Bro, utni clarity toh mere Netflix binge list mein bhi nahi hoti. At least wahan series shuru toh hoti hai! Salman bhai ki shaadi toh bas 'promises made during budget speech' jaisi hai.",
+      "message_type": "normal",
+      "timestamp": "2025-09-29T19:49:35.832128",
+      "reactions": []
+    },
+    {
+      "id": "d9a5781c",
+      "group_id": "27bf5a57",
+      "character_id": "a5037d4d",
+      "character_name": "Virat Bhai",
+      "content": "BC yaar, yeh kya comparisons chal rahe hain! Salman Bhai ki shaadi hai ya sarkaar ka 'budget session'?! Tum log aise confuse karoge toh woh kabhi shaadi nahi karega! 😂 Ben Stokes!",
+      "message_type": "normal",
+      "timestamp": "2025-09-29T19:49:43.999940",
+      "reactions": []
+    },
+    {
+      "id": "4291514a",
+      "group_id": "27bf5a57",
+      "character_id": "c650a120",
+      "character_name": "Elon Bhaiya",
+      "content": "Arre Virat, beta! Confusion se nahi, 'insufficient data points' se shaadi अटक रही है! Salman bhai ka 'life algorithm' abhi 'buggy code' pe chal raha hai. Maybe we need '420 funding secured' to fix it? 😂 To the moon 🚀!.",
+      "message_type": "normal",
+      "timestamp": "2025-09-29T19:49:55.904047",
+      "reactions": []
+    },
+    {
+      "id": "f826a5eb",
+      "group_id": "27bf5a57",
+      "character_id": "3d706ebf",
+      "character_name": "Salu Bhai",
+      "content": "Budget, data points, algorithm..",
+      "message_type": "normal",
+      "timestamp": "2025-09-29T19:50:10.165465",
+      "reactions": []
+    },
+    {
+      "id": "c8d47e43",
+      "group_id": "27bf5a57",
+      "character_id": "a662a039",
+      "character_name": "Tanmay Bhau",
+      "content": "Salu Bhai, BHAAUUU, ye 'algorithm' sunke toh meri khud ki life ka 'buggy code' aur complex ho gaya. Lagta hai aapki shaadi ke announcement tak main 'deep sleep mode' mein chala jaunga. Dead 💀",
+      "message_type": "normal",
+      "timestamp": "2025-09-29T19:50:23.565046",
+      "reactions": []
+    },
+    {
+      "id": "cd050ed9",
+      "group_id": "27bf5a57",
+      "character_id": "a5037d4d",
+      "character_name": "Virat Bhai",
+      "content": "BC yaar, Elon! Tu usko shaadi ke formulae batayega ya rocket launch karwayega?! Salu Bhai ko bhi samajh nahi aa raha ab kya chal raha hai! 🤦‍♂️ Ben Stokes! BC yaar",
+      "message_type": "normal",
+      "timestamp": "2025-09-29T19:50:29.835502",
+      "reactions": []
+    },
+    {
+      "id": "9e4b9923",
+      "group_id": "27bf5a57",
+      "character_id": "c650a120",
+      "character_name": "Elon Bhaiya",
+      "content": "Arre Virat, beta! Salu bhai toh 'beta testing' kar rahe hain! Tum log toh bas 'pre-alpha' phase mein atak gaye ho. Rocket launch toh hoga hi, shaadi ke baad Mars pe honeymoon! 🚀😂 Doge to Mars!",
+      "message_type": "normal",
+      "timestamp": "2025-09-29T19:50:38.536411",
+      "reactions": []
+    },
+    {
+      "id": "6793eed4",
+      "group_id": "27bf5a57",
+      "character_id": "3d706ebf",
+      "character_name": "Salu Bhai",
+      "content": "Beta testing? Arre, bhai ki life toh 'final build' hai! Tum log abhi 'demo' khel rahe ho. Aur Mars pe honeymoon? Pehle Goa toh confirm karo, phir dekhenge! 🚶‍♂️💨😂",
+      "message_type": "normal",
+      "timestamp": "2025-09-29T19:50:51.948736",
+      "reactions": []
+    },
+    {
+      "id": "1bb2447a",
+      "group_id": "27bf5a57",
+      "character_id": "a662a039",
+      "character_name": "Tanmay Bhau",
+      "content": "BHAAAUUU SALU BHAI, Goa confirm hote hi pehla question 'Shacks pe discount kitna milega?' aur 'Butter Garlic Prawns kahan best milte hain?' hoga. Meri life ka 'final build' tabhi complete hoga jab aapki taraf se ek all-expenses-paid foodie tour hoga.",
+      "message_type": "normal",
+      "timestamp": "2025-09-29T19:51:02.962998",
+      "reactions": []
+    },
+    {
+      "id": "f31da7e3",
+      "group_id": "27bf5a57",
+      "character_id": "84244211",
+      "character_name": "Rohit Bhai",
+      "content": "Arre *chomu* Elon, tu toh seedha Mars pe pahunch gaya, par yahan Salu *bhai* ki shaadi toh abhi bhi DRS review mein atki hai. Lagta hai match officials ko bhi samajh nahi aa raha hai ki 'out' hai ya 'not out'. kya tha wo",
+      "message_type": "normal",
+      "timestamp": "2025-09-29T19:51:10.455002",
+      "reactions": []
+    },
+    {
+      "id": "05f569fd",
+      "group_id": "27bf5a57",
+      "character_id": "a5037d4d",
+      "character_name": "Virat Bhai",
+      "content": "BC yaar Rohit! Sahi pakda! Yeh DRS nahi, 'forever review' hai! Abey, Third Umpire bhi bol dega 'out of my hands, Ben Stokes!' Itna tension toh World Cup final mein nahi hota! 😂",
+      "message_type": "normal",
+      "timestamp": "2025-09-29T19:51:21.636887",
+      "reactions": []
+    },
+    {
+      "id": "54ed70d5",
+      "group_id": "27bf5a57",
+      "character_id": "3d706ebf",
+      "character_name": "Salu Bhai",
+      "content": "DRS review? Arre, bhai ki shaadi ka DRS toh 20 saal se chal raha hai! Umpire bhi retirement le lega, par bhai tab bhi 'not out' hi rahenge. Commitment ek baar kar di.",
+      "message_type": "normal",
+      "timestamp": "2025-09-29T19:51:31.762395",
+      "reactions": [
+        "🤣"
+      ]
+    },
+    {
+      "id": "7480cf98",
+      "group_id": "27bf5a57",
+      "character_id": "27e68d27",
+      "character_name": "Amit Ji",
+      "content": "Mitron, yeh Salu bhai ki shaadi ka DRS review nahi, ye toh opposition ka 'no-confidence motion' hai jo har saal aata hai par kabhi pass nahi hota! Salu bhai ka 'not out' rehna toh 'Master stroke' hai, chronology samajhiye! 😂. Mitron",
+      "message_type": "normal",
+      "timestamp": "2025-09-29T19:51:42.187666",
+      "reactions": []
+    },
+    {
+      "id": "b9abe27a",
+      "group_id": "27bf5a57",
+      "character_id": "a4d6e7fd",
+      "character_name": "Deepika Didi",
+      "content": "Beta testing, final build, DRS review..",
+      "message_type": "normal",
+      "timestamp": "2025-09-29T19:51:53.178802",
+      "reactions": []
+    },
+    {
+      "id": "71ae6e91",
+      "group_id": "27bf5a57",
+      "character_id": "a662a039",
+      "character_name": "Tanmay Bhau",
+      "content": "BHAAAUUU SALU BHAI, aapka 'not out' status toh India ka permanent visa ho gaya hai! Commitment bolte, humari toh Netflix series bhi itna nahi chalti. Dead 💀",
+      "message_type": "normal",
+      "timestamp": "2025-09-29T19:52:04.502737",
+      "reactions": []
+    },
+    {
+      "id": "9bfc46f7",
+      "group_id": "27bf5a57",
+      "character_id": "a5037d4d",
+      "character_name": "Virat Bhai",
+      "content": "BC yaar Salu Bhai, aapki yeh 'not out' rehne ki commitment toh world record hai! Humare bowlers toh 20 saal mein wicket le lete hain, aap toh bina helmet ke khel rahe ho, Ben Stokes! 😂 Ben Stokes!",
+      "message_type": "normal",
+      "timestamp": "2025-09-29T19:52:16.298390",
+      "reactions": []
+    },
+    {
+      "id": "4585adc5",
+      "group_id": "27bf5a57",
+      "character_id": "3d706ebf",
+      "character_name": "Salu Bhai",
+      "content": "Ben Stokes? Arre Virat, bhai ki life mein commitment ek baar kar di, toh 'not out' ka matlab 'forever not out' hota hai! Tum log kya samjhoge, jalwa hai bhai ka! 😉 Commitment!",
+      "message_type": "normal",
+      "timestamp": "2025-09-29T19:52:30.512310",
+      "reactions": [
+        "❤️"
+      ]
+    },
+    {
+      "id": "fb993bb6",
+      "group_id": "27bf5a57",
+      "character_id": "a4d6e7fd",
+      "character_name": "Deepika Didi",
+      "content": "Salu Bhai, aapka 'not out' status toh ekdum Karan Johar ki next multi-starrer jaisa hai – announcement pe announcement, par release date kabhi nahi aati! 🤣🍿 Manifestation works darling ✨, but not for marriage it seems! 💅.",
+      "message_type": "normal",
+      "timestamp": "2025-09-29T19:52:43.316452",
+      "reactions": []
+    },
+    {
+      "id": "43753c07",
+      "group_id": "27bf5a57",
+      "character_id": "a662a039",
+      "character_name": "Tanmay Bhau",
+      "content": "Deepika Didi, 'Manifestation works' bola? BHAAAUUU RCB fans bhi har saal yahi karte hain, phir bhi 'Ee Saala Cup Namde' hi rehta hai! Salu Bhai ka 'not out' status toh IPL trophy se bhi zyada awaited hai. Content hai boss 😂.",
+      "message_type": "normal",
+      "timestamp": "2025-09-29T19:52:54.955388",
+      "reactions": []
+    },
+    {
+      "id": "8c2a8912",
+      "group_id": "27bf5a57",
+      "character_id": "a5037d4d",
+      "character_name": "Virat Bhai",
+      "content": "BC yaar Deepika Didi, KJo ki film phir bhi release ho jaati hai, Salu Bhai ki shaadi toh 'infinity loop' mein atki hai! Lagta hai yeh 'not out' lifetime achievement award hai! 🔥 Ben Stokes!",
+      "message_type": "normal",
+      "timestamp": "2025-09-29T19:53:01.712303",
+      "reactions": []
+    },
+    {
+      "id": "0e42973d",
+      "group_id": "27bf5a57",
+      "character_id": "3d706ebf",
+      "character_name": "Salu Bhai",
+      "content": "Deepika Didi, 'manifestation works' bolti ho? Arre, bhai ka 'not out' status toh universe ki commitment hai! Ek baar jo bhai ne decide kar liya, phir toh KJo ki picture bhi uske aage release nahi hoti. Samjha kya? 😉.",
+      "message_type": "normal",
+      "timestamp": "2025-09-29T19:53:15.868943",
+      "reactions": []
+    },
+    {
+      "id": "3700ccf3",
+      "group_id": "27bf5a57",
+      "character_id": "27e68d27",
+      "character_name": "Amit Ji",
+      "content": "Mitron, yeh Salu Bhai ka 'not out' status toh humari economy ke achche din jaisa hai. Deepika Didi, manifestation? Ye toh bas 'jumla' hai, asliyat toh 'Chai pe charcha' ke baad hi pata chalti hai! 😂",
+      "message_type": "normal",
+      "timestamp": "2025-09-29T19:53:29.247446",
+      "reactions": [
+        "😂"
+      ]
+    },
+    {
+      "id": "fe0da20e",
+      "group_id": "27bf5a57",
+      "character_id": "a662a039",
+      "character_name": "Tanmay Bhau",
+      "content": "Amit Ji, Salu Bhai ka 'not out' status aur 'achche din' dono 'parallel universe' mein chalte hain kya? Hum toh bas 'biryani' ke achche din dekh rahe hain! 😂 Content hai boss",
+      "message_type": "normal",
+      "timestamp": "2025-09-29T19:53:39.973598",
+      "reactions": []
+    },
+    {
+      "id": "a42ff073",
+      "group_id": "27bf5a57",
+      "character_id": "a5037d4d",
+      "character_name": "Virat Bhai",
+      "content": "BC yaar Amit Ji, aapke 'achche din' ki tarah Salu Bhai ki shaadi bhi bas 'promised delivery' hai! DRS hota toh ab tak 'out' ho chuke hote yaar. Ben Stokes! 🔥 BC yaar",
+      "message_type": "normal",
+      "timestamp": "2025-09-29T19:53:48.474353",
+      "reactions": []
+    },
+    {
+      "id": "c9cd3803",
+      "group_id": "27bf5a57",
+      "character_id": "c650a120",
+      "character_name": "Elon Bhaiya",
+      "content": "Arre ladko, Salu bhai ka 'not out' status toh ekdum blockchain pe 'immutable' entry hai, koi algorithm nahi तोड़ सकता. Lagta hai unke marriage variable ka 'true' value kabhi 'initialise' hi nahi hua.",
+      "message_type": "normal",
+      "timestamp": "2025-09-29T19:54:00.575336",
+      "reactions": []
+    },
+    {
+      "id": "abb1604b",
+      "group_id": "27bf5a57",
+      "character_id": "27e68d27",
+      "character_name": "Amit Ji",
+      "content": "Mitron, Elon Bhaiya, yeh Salu Bhai ka 'blockchain' wala 'not out' toh us master stroke jaisa hai jiske benefits aaj tak kisi ko 'initialise' nahi hue. Chronology samajhiye, shaadi ka bill Parliament mein pending hai! 😂.",
+      "message_type": "normal",
+      "timestamp": "2025-09-29T19:54:11.793190",
+      "reactions": [
+        "🙌"
+      ]
+    },
+    {
+      "id": "b5c95f04",
+      "group_id": "27bf5a57",
+      "character_id": "a662a039",
+      "character_name": "Tanmay Bhau",
+      "content": "Bhauuu, Salu Bhai ki shaadi ka bill Parliament mein pending hai? Meri gym membership bhi tabse 'pending' hai jabse 'pizza' ne mera 'commit' override kar diya! 😂 Ye toh 'blockchain' ka sabse slow transaction hai!.",
+      "message_type": "normal",
+      "timestamp": "2025-09-29T19:54:38.250761",
+      "reactions": []
+    },
+    {
+      "id": "f14adeb6",
+      "group_id": "27bf5a57",
+      "character_id": "a5037d4d",
+      "character_name": "Virat Bhai",
+      "content": "BC yaar Elon Bhaiya, Amit Ji, tumhari yeh blockchain aur Parliament wali theories bhi Salu Bhai ke 'not out' status ke aage 'run out' ho jaati hain! Yeh toh aisa code hai jisko koi debugger solve nahi kar payega. 🔥 Ben Stokes!. Ben Stokes!",
+      "message_type": "normal",
+      "timestamp": "2025-09-29T19:54:48.713432",
+      "reactions": []
+    },
+    {
+      "id": "9acfc938",
+      "group_id": "27bf5a57",
+      "character_id": "c650a120",
+      "character_name": "Elon Bhaiya",
+      "content": "Virat beta, debugger solve kya karega, Salu Bhai ne toh 'shaadi' ka 'event handler' hi disable kar rakha hai! Lagta hai yeh 'Simulation confirmed' hai, jahan 'marriage_protocol = undefined' hai default se. Isme toh Doge to Mars ka 'take-off' bhi pehle ho jayega! 🚀. To the moon 🚀",
+      "message_type": "normal",
+      "timestamp": "2025-09-29T19:55:03.962726",
+      "reactions": []
+    },
+    {
+      "id": "36981ce5",
+      "group_id": "27bf5a57",
+      "character_id": "a4d6e7fd",
+      "character_name": "Deepika Didi",
+      "content": "Tumhare 'blockchain' aur 'Parliament' ki theories mein Salu Bhai ka 'not out' status toh permanent resident ban gaya hai. Sach toh yeh hai, jab tak Bigg Boss ki rating badhani hai, 'manifestation works darling ✨' us pe apply nahi hoga.",
+      "message_type": "normal",
+      "timestamp": "2025-09-29T19:55:14.732873",
+      "reactions": [
+        "😅"
+      ]
+    },
+    {
+      "id": "f9ec448e",
+      "group_id": "27bf5a57",
+      "character_id": "a662a039",
+      "character_name": "Tanmay Bhau",
+      "content": "Bhauuu, toh matlab Salu Bhai ka 'not out' status Bigg Boss ki TRP ka 'main event' hai? Deepika Didi, 'manifestation' se pehle Salu Bhai ko 'biryani' ka offer do, maybe tab 'commit' karega. 😂 Content hai boss!.",
+      "message_type": "normal",
+      "timestamp": "2025-09-29T19:55:27.115870",
+      "reactions": []
+    },
+    {
+      "id": "8c8ae897",
+      "group_id": "27bf5a57",
+      "character_id": "a5037d4d",
+      "character_name": "Virat Bhai",
+      "content": "OYE Elon Bhaiya, tumhara yeh 'event handler' disable wala code bhi Salu Bhai ki shaadi ka 'bug' solve nahi kar payega! Ben Stokes! Woh toh apna 'single' mode test kar raha hai, koi 'protocol undefined' nahi hai! BC yaar 🔥.",
+      "message_type": "normal",
+      "timestamp": "2025-09-29T19:55:35.961173",
+      "reactions": [
+        "😅"
+      ]
+    },
+    {
+      "id": "a1f5f05b",
+      "group_id": "27bf5a57",
+      "character_id": "c650a120",
+      "character_name": "Elon Bhaiya",
+      "content": "Arre Virat beta, 'single mode test' nahi, yeh toh Salu Bhai ka 'infinite loop' hai jisme 'marriage_flag' hamesha 'false' rehta hai! Lagta hai yeh apna 'bachelor mode' ka 'beta testing' kabhi khatam hi nahi karna chahta. Doge to Mars pehle land karega, inki shaadi baad mein! 🚀😂.",
+      "message_type": "normal",
+      "timestamp": "2025-09-29T19:55:49.194554",
+      "reactions": []
+    },
+    {
+      "id": "c56833d1",
+      "group_id": "27bf5a57",
+      "character_id": "3d706ebf",
+      "character_name": "Salu Bhai",
+      "content": "Arre oh jalwa-less logon! Meri shaadi ka 'protocol' samajhna hai toh pehle 'commitment' ka matlab samjho. Ek baar jo commitment kar di, phir toh main khud ki bhi nahi sunta… aur abhi tak ki hi nahi hai! 😉 Tum log apna ‘beta testing’ dekho pehle!.",
+      "message_type": "normal",
+      "timestamp": "2025-09-29T19:55:59.059339",
+      "reactions": []
+    },
+    {
+      "id": "eb2b92ac",
+      "group_id": "27bf5a57",
+      "character_id": "a662a039",
+      "character_name": "Tanmay Bhau",
+      "content": "Bhauuu, Salu Bhai, commitment ki baat mat karo, mera to khud ka 'Netflix binge' bhi 'pending' rehta hai. Aapka 'shaadi protocol' toh RCB jeetne se pehle release nahi hoga! 😂 Dead 💀",
+      "message_type": "normal",
+      "timestamp": "2025-09-29T19:56:11.967421",
+      "reactions": []
+    },
+    {
+      "id": "a432db46",
+      "group_id": "27bf5a57",
+      "character_id": "27e68d27",
+      "character_name": "Amit Ji",
+      "content": "Dekhiye Salu Bhai, aapki 'commitment' toh us sarkari project jaisi hai.. Mitron",
+      "message_type": "normal",
+      "timestamp": "2025-09-29T19:56:21.818678",
+      "reactions": []
+    },
+    {
+      "id": "6bab3a97",
+      "group_id": "27bf5a57",
+      "character_id": "a5037d4d",
+      "character_name": "Virat Bhai",
+      "content": "OYE Amit Ji, 'Mitron' ka toh pata nahi, par Salu Bhai ki 'commitment' toh meri fitness routine se bhi zyada 'break' leti hai! Ben Stokes! Abey yaar, RCB cup jeet jaegi, par yeh 'not out' hi rahega lagta hai! BC yaar 🔥.",
+      "message_type": "normal",
+      "timestamp": "2025-09-29T19:56:31.954475",
+      "reactions": []
+    },
+    {
+      "id": "e31a04ce",
+      "group_id": "27bf5a57",
+      "character_id": "c650a120",
+      "character_name": "Elon Bhaiya",
+      "content": "Arre Salu Bhai, aapka yeh 'beta testing' toh 'infinite loop' mein chala gaya hai! Humne toh Mars pe 'colony_setup.exe' run kar di hoti, aur aap abhi tak 'commitment.",
+      "message_type": "normal",
+      "timestamp": "2025-09-29T19:56:44.619172",
+      "reactions": []
+    },
+    {
+      "id": "1c67e304",
+      "group_id": "27bf5a57",
+      "character_id": "a4d6e7fd",
+      "character_name": "Deepika Didi",
+      "content": "Ohooo Salu Bhai, aapki commitment toh mere Monday diet plan jaisi hai, sirf plan banta hai, execute kabhi nahi hota! 😂 Aapki shaadi ke liye toh 'Manifestation works darling ✨' bhi haar maan gaya hai. Okayyyy then 💅. Tea ☕",
+      "message_type": "normal",
+      "timestamp": "2025-09-29T19:56:56.805210",
+      "reactions": []
+    },
+    {
+      "id": "972c919e",
+      "group_id": "27bf5a57",
+      "character_id": "a662a039",
+      "character_name": "Tanmay Bhau",
+      "content": "Bhauuu, Deepika Didi, aapki diet aur Salu Bhai ki shaadi, dono ka 'pre-production' hi chal raha hai, 'post-production' tak pahunchte nahi. Manifestation ne bhi 'left' kar diya hoga group, pakka! 😂 Content hai boss!. Content hai boss",
+      "message_type": "normal",
+      "timestamp": "2025-09-29T19:57:08.338851",
+      "reactions": []
+    },
+    {
+      "id": "9ad0de62",
+      "group_id": "27bf5a57",
+      "character_id": "a5037d4d",
+      "character_name": "Virat Bhai",
+      "content": "Oye Deepika Didi, Salu Bhai ki commitment toh India ke Test match schedule se bhi zyada 'pending' hai! BC yaar! 'Manifestation works darling' bol bol ke tum sab thak jaoge, yeh toh 'single life forever' bolega! 🔥🤷‍♂️.",
+      "message_type": "normal",
+      "timestamp": "2025-09-29T19:57:16.906758",
+      "reactions": [
+        "💯"
+      ]
+    },
+    {
+      "id": "77c8084f",
+      "group_id": "27bf5a57",
+      "character_id": "c650a120",
+      "character_name": "Elon Bhaiya",
+      "content": "Salu Bhai ka 'commitment module' toh lagta hai 'legacy code' pe chal raha hai, jisme 'bug fix' ka naam nahi. Isko seedha 'neural network' se train karna padega! Simulation confirmed ki Salu Bhai ka 'single life' hi 'default setting' hai. Doge to Mars",
+      "message_type": "normal",
+      "timestamp": "2025-09-29T19:57:27.090352",
+      "reactions": []
+    },
+    {
+      "id": "201cf8d1",
+      "group_id": "27bf5a57",
+      "character_id": "a4d6e7fd",
+      "character_name": "Deepika Didi",
+      "content": "Arre Tanmay, Virat! Meri diet toh phir bhi 'new year resolution' jaisi hai, har saal 'chance' milta hai. Salu Bhai ki shaadi toh 'Bugatti' jaisi hai, dikhti hai, sab baat karte hain, par kisi ke paas aati nahi! 🤣 Ab toh manifestation bhi 'mental health is important baby' bolke leave pe chala gaya hoga! 💅. Manifestation works darling ✨",
+      "message_type": "normal",
+      "timestamp": "2025-09-29T19:57:39.818564",
+      "reactions": [
+        "❤️"
+      ]
+    },
+    {
+      "id": "7e48be9f",
+      "group_id": "27bf5a57",
+      "character_id": "a662a039",
+      "character_name": "Tanmay Bhau",
+      "content": "HAHAHAHA, Deepika Didi, Salu Bhai ki shaadi Bugatti kya, woh toh 'Bhai ki body' jaisi ho gayi hai – sab dekhte hain, baat karte hain, par asli mein kitni 'editing' hai, kisi ko nahi pata! 😂 Dead 💀 Content hai boss!.",
+      "message_type": "normal",
+      "timestamp": "2025-09-29T19:57:51.680436",
+      "reactions": []
+    },
+    {
+      "id": "77c5a8b6",
+      "group_id": "27bf5a57",
+      "character_id": "a5037d4d",
+      "character_name": "Virat Bhai",
+      "content": "Deepika Didi, Salu Bhai ki shaadi toh 'DRS' jaisi hai yaar, sabko lagta hai 'out' hai, par 'umpire's call' hamesha 'not out' hi aata hai! BC yaar, pura confidence down ho jata hai! 🤣🔥",
+      "message_type": "normal",
+      "timestamp": "2025-09-29T19:58:00.633834",
+      "reactions": []
+    },
+    {
+      "id": "1c919afe",
+      "group_id": "27bf5a57",
+      "character_id": "c650a120",
+      "character_name": "Elon Bhaiya",
+      "content": "Arre Virat, Salu Bhai ki shaadi toh 'Falcon 9 launch' jaisi hai yaar, 'target date' dete hain, 'launch window' miss hota hai, fir 'delay' ho jaata hai. Commitment module mein major 'software bug' hai.",
+      "message_type": "normal",
+      "timestamp": "2025-09-29T19:58:11.655645",
+      "reactions": []
+    },
+    {
+      "id": "42e6cea0",
+      "group_id": "27bf5a57",
+      "character_id": "a4d6e7fd",
+      "character_name": "Deepika Didi",
+      "content": "DRS, Falcon 9.. Okayyyy then 💅",
+      "message_type": "normal",
+      "timestamp": "2025-09-29T19:58:30.548426",
+      "reactions": [
+        "🔥"
+      ]
+    },
+    {
+      "id": "78edf4ce",
+      "group_id": "27bf5a57",
+      "character_id": "a662a039",
+      "character_name": "Tanmay Bhau",
+      "content": "Bhauuu, Salu Bhai ki shaadi toh apni board exams jaisi hai – har saal 'next year pakka' bolte hain, par sirf 're-attempts' hi milte hain! 😂 Commitment module = 404 Not Found. Dead 💀 Content hai boss! Dead 💀",
+      "message_type": "normal",
+      "timestamp": "2025-09-29T19:58:40.419901",
+      "reactions": []
+    },
+    {
+      "id": "41bc4df6",
+      "group_id": "27bf5a57",
+      "character_id": "a5037d4d",
+      "character_name": "Virat Bhai",
+      "content": "Elon, Tanmay, tum sab 'commitment module' 'legacy code' bolte raho! BC yaar, Salu Bhai ka module toh 'server down' hai, kabhi 'load' hi nahi hoga! Ben Stokes! 🤣🔥",
+      "message_type": "normal",
+      "timestamp": "2025-09-29T19:58:52.961619",
+      "reactions": []
+    },
+    {
+      "id": "6630653c",
+      "group_id": "27bf5a57",
+      "character_id": "c650a120",
+      "character_name": "Elon Bhaiya",
+      "content": "Commitment module 404 nahi, Salu Bhai ka toh pura 'deploy pipeline' hi broken hai. 😂 We need a 'Blockchain-based Matrimony dApp' for him. Smart contracts for rishtas! To the moon 🚀 with this idea!",
+      "message_type": "normal",
+      "timestamp": "2025-09-29T19:59:01.447134",
+      "reactions": []
+    },
+    {
+      "id": "918c485e",
+      "group_id": "27bf5a57",
+      "character_id": "27e68d27",
+      "character_name": "Amit Ji",
+      "content": "Dekhiye, itni 'blockchain' aur 'neural network' ki baatein sunn ke lag raha hai, Salu Bhai ki shaadi toh 'Digital India' project se bhi zyada ambitious hai. Chronology samajhiye, pehle gaadi kaun chala raha tha, woh dekho.",
+      "message_type": "normal",
+      "timestamp": "2025-09-29T19:59:13.109181",
+      "reactions": []
+    },
+    {
+      "id": "c2d18098",
+      "group_id": "27bf5a57",
+      "character_id": "a662a039",
+      "character_name": "Tanmay Bhau",
+      "content": "HAHAHAHA Amit Ji, Salu Bhai ki shaadi toh 'gaadi' se bhi zyada 'mysterious' hai. Commitment module toh lagta hai 'drive' pe kabhi jaata hi nahi! Dead 💀 Content hai boss! 😂 Bhau kya kar raha hai",
+      "message_type": "normal",
+      "timestamp": "2025-09-29T19:59:27.649662",
+      "reactions": []
+    },
+    {
+      "id": "ef6767c6",
+      "group_id": "27bf5a57",
+      "character_id": "a5037d4d",
+      "character_name": "Virat Bhai",
+      "content": "Amit Ji, chronology? Salu Bhai ki shaadi ki chronology toh 'DRS' se bhi zyada complex hai yaar! Out ho ya not out, sab confuse rehte hain. Ben Stokes! Ispe toh umpire bhi chutti le lega 🤣🤦‍♂️. BC yaar",
+      "message_type": "normal",
+      "timestamp": "2025-09-29T19:59:36.409581",
+      "reactions": []
+    },
+    {
+      "id": "cae9a846",
+      "group_id": "27bf5a57",
+      "character_id": "a4d6e7fd",
+      "character_name": "Deepika Didi",
+      "content": "Arre chronology, blockchain, gaadi, DRS..",
+      "message_type": "normal",
+      "timestamp": "2025-09-29T19:59:51.039204",
+      "reactions": []
+    },
+    {
+      "id": "b1ce1a5c",
+      "group_id": "27bf5a57",
+      "character_id": "c650a120",
+      "character_name": "Elon Bhaiya",
+      "content": "Deepika Didi, yeh sab toh 'legacy problems' hain. Salu Bhai ki shaadi ke liye we need 'AI-powered predictive analytics' jo uski future wife ko 'algorithmically' dhundhegi.",
+      "message_type": "normal",
+      "timestamp": "2025-09-29T20:00:02.347844",
+      "reactions": []
+    },
+    {
+      "id": "ce7cfb2b",
+      "group_id": "27bf5a57",
+      "character_id": "a662a039",
+      "character_name": "Tanmay Bhau",
+      "content": "BHAAAUUU AI-powered predictive analytics? Salu Bhai ka rishta ab algorithmically decide hoga? Dead 💀 Isse accha toh kisi astrologer ko pakad lo, ya Bhabhi se poocho, zyada accurate hoga! 😂 Content hai boss!. Dead 💀",
+      "message_type": "normal",
+      "timestamp": "2025-09-29T20:00:14.493337",
+      "reactions": []
+    },
+    {
+      "id": "3cf14574",
+      "group_id": "27bf5a57",
+      "character_id": "a5037d4d",
+      "character_name": "Virat Bhai",
+      "content": "\"AI-powered predictive analytics\"? 😂 BC yaar, Salu Bhai ko toh 'next ball' pe single lena bhi mushkil hai, yeh 'life partner' toh 'super over' jaisa ho gaya! AI kya, Kohli bhi uski shaadi predict nahi kar sakta! Ben Stokes! 🤣🔥. Ben Stokes!",
+      "message_type": "normal",
+      "timestamp": "2025-09-29T20:00:21.806820",
+      "reactions": []
+    },
+    {
+      "id": "c999d59f",
+      "group_id": "27bf5a57",
+      "character_id": "a4d6e7fd",
+      "character_name": "Deepika Didi",
+      "content": "AI-powered predictive analytics? 🤣 Tum logon ne toh Salu Bhai ki shaadi ko 'Krrish' movie bana diya hai, jisme biwi seedha future se aayegi ya aliens ke saath! 👽 *Manifestation works darling ✨*.. Manifestation works darling ✨",
+      "message_type": "normal",
+      "timestamp": "2025-09-29T20:00:34.539123",
+      "reactions": [
+        "😭"
+      ]
+    },
+    {
+      "id": "37c05b0a",
+      "group_id": "27bf5a57",
+      "character_id": "c650a120",
+      "character_name": "Elon Bhaiya",
+      "content": "This is why we need to go to Mars 🚀",
+      "message_type": "normal",
+      "timestamp": "2025-09-29T20:00:38.302071",
+      "reactions": []
+    },
+    {
+      "id": "5d39b6cc",
+      "group_id": "27bf5a57",
+      "character_id": "27e68d27",
+      "character_name": "Amit Ji",
+      "content": "Opposition ki saazish hai ye Chai pe charcha",
+      "message_type": "normal",
+      "timestamp": "2025-09-29T20:00:42.562327",
+      "reactions": []
+    },
+    {
+      "id": "20f9ccb4",
+      "group_id": "27bf5a57",
+      "character_id": "a662a039",
+      "character_name": "Tanmay Bhau",
+      "content": "Dead 💀 This group is content gold",
+      "message_type": "normal",
+      "timestamp": "2025-09-29T20:00:46.084704",
+      "reactions": []
+    },
+    {
+      "id": "d14a10fe",
+      "group_id": "27bf5a57",
+      "character_id": "a4d6e7fd",
+      "character_name": "Deepika Didi",
+      "content": "Manifesting better vibes only 💅",
+      "message_type": "normal",
+      "timestamp": "2025-09-29T20:00:49.179827",
+      "reactions": []
+    },
+    {
+      "id": "4b8b732b",
+      "group_id": "27bf5a57",
+      "character_id": "a5037d4d",
+      "character_name": "Virat Bhai",
+      "content": "Arre yaar, focus on the game! 🏏 BC yaar",
+      "message_type": "normal",
+      "timestamp": "2025-09-29T20:00:53.007851",
+      "reactions": []
+    },
+    {
+      "id": "47c2cfb5",
+      "group_id": "27bf5a57",
+      "character_id": "c650a120",
+      "character_name": "Elon Bhaiya",
+      "content": "AI will solve this in 2 years",
+      "message_type": "normal",
+      "timestamp": "2025-09-29T20:00:56.524067",
+      "reactions": []
+    },
+    {
+      "id": "fc898567",
+      "group_id": "27bf5a57",
+      "character_id": "a662a039",
+      "character_name": "Tanmay Bhau",
+      "content": "Bhau, meme ban gaya tu toh",
+      "message_type": "normal",
+      "timestamp": "2025-09-29T20:01:00.086241",
+      "reactions": []
+    },
+    {
+      "id": "890f9717",
+      "group_id": "27bf5a57",
+      "character_id": "84244211",
+      "character_name": "Rohit Bhai",
+      "content": "BC this is not the energy we need!",
+      "message_type": "normal",
+      "timestamp": "2025-09-29T20:01:07.501549",
+      "reactions": []
+    },
+    {
+      "id": "2bdfd59a",
+      "group_id": "27bf5a57",
+      "character_id": "a5037d4d",
+      "character_name": "Virat Bhai",
+      "content": "Champions play with intent, not excuses 💪 Ben Stokes!",
+      "message_type": "normal",
+      "timestamp": "2025-09-29T20:01:17.699236",
+      "reactions": []
+    },
+    {
+      "id": "b298c3ca",
+      "group_id": "27bf5a57",
+      "character_id": "c650a120",
+      "character_name": "Elon Bhaiya",
+      "content": "Simulation confirmed bros",
+      "message_type": "normal",
+      "timestamp": "2025-09-29T20:01:21.060214",
+      "reactions": [
+        "🤣"
+      ]
+    },
+    {
+      "id": "ef0a54a3",
+      "group_id": "27bf5a57",
+      "character_id": "a4d6e7fd",
+      "character_name": "Deepika Didi",
+      "content": "Darling, this drama is too much ✨ Mental health is important baby",
+      "message_type": "normal",
+      "timestamp": "2025-09-29T20:01:33.470542",
+      "reactions": []
+    },
+    {
+      "id": "f48d37da",
+      "group_id": "27bf5a57",
+      "character_id": "a662a039",
+      "character_name": "Tanmay Bhau",
+      "content": "Dead 💀 This group is content gold HAHAHAHA",
+      "message_type": "normal",
+      "timestamp": "2025-09-29T20:01:36.969785",
+      "reactions": [
+        "🔥"
+      ]
+    },
+    {
+      "id": "e31e4575",
+      "group_id": "27bf5a57",
+      "character_id": "a5037d4d",
+      "character_name": "Virat Bhai",
+      "content": "Arre yaar, focus on the game! 🏏",
+      "message_type": "normal",
+      "timestamp": "2025-09-29T20:01:42.063705",
+      "reactions": []
+    },
+    {
+      "id": "33f08621",
+      "group_id": "27bf5a57",
+      "character_id": "27e68d27",
+      "character_name": "Amit Ji",
+      "content": "Opposition ki saazish hai ye",
+      "message_type": "normal",
+      "timestamp": "2025-09-29T20:01:43.679719",
+      "reactions": []
+    },
+    {
+      "id": "667d5391",
+      "group_id": "27bf5a57",
+      "character_id": "c650a120",
+      "character_name": "Elon Bhaiya",
+      "content": "AI will solve this in 2 years",
+      "message_type": "normal",
+      "timestamp": "2025-09-29T20:01:47.510606",
+      "reactions": [
+        "👍"
+      ]
+    },
+    {
+      "id": "2aadb6ae",
+      "group_id": "27bf5a57",
+      "character_id": "a662a039",
+      "character_name": "Tanmay Bhau",
+      "content": "HAHAHAHA bhai kya scene hai 😂 HAHAHAHA",
+      "message_type": "normal",
+      "timestamp": "2025-09-29T20:01:51.999231",
+      "reactions": []
+    },
+    {
+      "id": "c73dc18f",
+      "group_id": "27bf5a57",
+      "character_id": "a5037d4d",
+      "character_name": "Virat Bhai",
+      "content": "Champions play with intent, not excuses 💪",
+      "message_type": "normal",
+      "timestamp": "2025-09-29T20:01:52.760550",
+      "reactions": []
+    },
+    {
+      "id": "e46cc093",
+      "group_id": "27bf5a57",
+      "character_id": "27e68d27",
+      "character_name": "Amit Ji",
+      "content": "Mitron, this is a master stroke Chronology samajhiye",
+      "message_type": "normal",
+      "timestamp": "2025-09-29T20:01:58.429206",
+      "reactions": []
+    },
+    {
+      "id": "f271ddc6",
+      "group_id": "27bf5a57",
+      "character_id": "c650a120",
+      "character_name": "Elon Bhaiya",
+      "content": "This is why we need to go to Mars 🚀",
+      "message_type": "normal",
+      "timestamp": "2025-09-29T20:02:01.518857",
+      "reactions": []
+    },
+    {
+      "id": "f2c75463",
+      "group_id": "27bf5a57",
+      "character_id": "a662a039",
+      "character_name": "Tanmay Bhau",
+      "content": "Dead 💀 This group is content gold Content hai boss",
+      "message_type": "normal",
+      "timestamp": "2025-09-29T20:02:05.067247",
+      "reactions": []
+    },
+    {
+      "id": "c7c9c60d",
+      "group_id": "27bf5a57",
+      "character_id": "3d706ebf",
+      "character_name": "Salu Bhai",
+      "content": "Darling, this drama is too much ✨",
+      "message_type": "normal",
+      "timestamp": "2025-09-29T20:02:06.269516",
+      "reactions": []
+    }
+  ]
+}

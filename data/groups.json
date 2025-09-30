@@ -1,0 +1,36 @@
+{
+  "0e4076d6": {
+    "id": "0e4076d6",
+    "name": "  India vs pakistan",
+    "description": " India vs pakistan final asia cup 2025 discussion",
+    "members": [
+      "a662a039",
+      "a5037d4d",
+      "c650a120",
+      "a4d6e7fd",
+      "27e68d27",
+      "84244211",
+      "3d706ebf"
+    ],
+    "created_at": "2025-09-28T22:42:41.744142",
+    "is_active": false,
+    "conversation_state": "idle"
+  },
+  "27bf5a57": {
+    "id": "27bf5a57",
+    "name": "salu ki shadhi",
+    "description": "Group to discuss about Salman Marriage.",
+    "members": [
+      "a662a039",
+      "a5037d4d",
+      "c650a120",
+      "27e68d27",
+      "a4d6e7fd",
+      "3d706ebf",
+      "84244211"
+    ],
+    "created_at": "2025-09-29T14:45:39.462114",
+    "is_active": false,
+    "conversation_state": "idle"
+  }
+}
